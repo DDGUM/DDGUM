@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    *{
+    margin: 0;
+    padding: 0;
+    }
+    nav{
+        background-color: rgb(0, 166, 255);
+        border-radius: 20px ;
+    }
+    body{
+        font-family: sans-serif;
+    }
+    nav ul{
+        display: flex;
+    }
+    nav> ul li{
+        list-style: none;
+        float: left;  
+        border-right: 1px solid #ccc;
+        border-left:1px solid #ffffff; /* kẻ đường bên trái và bên phải của li */
+    }
+    nav> ul li a{
+        display: inline-block;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 9px 13px;
+        text-decoration: none;
+    }
+    nav> ul li:first-child {
+        border-left: none; 
+    }
+    nav> ul li:first-child a{
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+    }   
+</style>
+<body>
+    <nav>
+    <ul>
+        <li ><a href="#">Trang chủ</a></li>
+        <li><a href="#">Tin tức</a> </li>
+        <li><a href="#">Sản phẩm</a></li>
+        <li><a href="#">Khóa học</a></li>
+        <li><a href="#">Liên hệ</a></li>
+        <li><a href="#">Đăng ký</a></li>
+        <li><a href="#">Đăng nhập</a></li>
+    </ul>
+    </nav>
+</body>
+</html>
