@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+    <style>
+        nav#navTop{
+            width: 960px;
+            margin: 0 auto;
+            background: #ccc;
+            height: 40px;
+        }
+        nav#navTop ul{
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        nav#navTop ul li{
+            float: left;
+            border-right: 1px solid #fff;
+        }
+        nav#navTop ul li a{
+            text-decoration: none;
+            display: block;
+            padding: 10px 30px;
+        }
+        .selected,nav#navTop ul li a:hover{
+            background: red;
+            color: #fff;
+        }
+        nav#navTop ul{
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            position: relative;
+        }
+        #navTop ul li:hover>ul.submenu{
+            opacity: 10;
+            height: auto;
+        }
+        ul.submenu{
+            position: absolute;
+            width: 159px;
+            opacity: 0; /* ẩn menu con */
+            
+        }
+        ul.submenu li{
+            border-bottom: solid 1px #181717;
+            width: 100%;
+        }
+        ul.submenu li a{
+            background-color: #838383;
+        }
+    </style>
+</head>
+<body>
+    <nav id="navTop">
+        <ul>
+            <li><a href="" class="selected">Trang Chủ</a></li>
+            <li><a href="">Giới thiệu</a></li>
+            <li>
+                <a href="">Sản phẩm</a>
+                <ul class="submenu">
+                <li><a href="">Sản phẩm cấp 1</a>
+                </li>
+                <li><a href="">Sản phẩm cấp 2</a></li>
+                <li><a href="">Sản phẩm cấp 3</a></li>
+                </ul>
+            </li>
+            <li><a href="">Dịch vụ</a></li>
+            <li><a href="">Liên hệ</a></li>
+        </ul>
+    </nav>
+</body>
+</html>

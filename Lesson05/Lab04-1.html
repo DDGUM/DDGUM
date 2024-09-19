@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            font-size: 14px;
+        }
+        nav{
+            height: 40px;
+            background-color: #4c4e5a;
+            border-radius: 5px;
+        }
+        nav ul li{
+            list-style: none;
+            position: relative;
+            float: left;
+            height: 40px;
+            display: block;
+            background-color: #4c4e5a;
+        }
+        nav ul li a{
+            display: block;
+            padding: 0 14px;
+            margin: 6px 0;
+            line-height: 30px;
+            border-left: 1px solid ;
+            border-right: 1px solid ;
+            color: #f3f3f3;
+            text-shadow: 1px 1px 1px rgba(0,0,0,6);
+            text-decoration: none;
+        }
+        nav ul li:first-child a{ border-left: none;}
+        nav ul li:first-child a{ border-right: none;}
+        nav ul li:hover > a {color: #768aff;}
+
+        ul.submenu{
+            position: absolute;
+            top: 40px;
+            left: 0;
+            width: 100px;
+
+            opacity: 0;
+            background: #4c4e5a;
+        }
+        nav ul li:hover>ul.submenu{
+            opacity: 10;
+            height: auto;
+        }
+        .submenu li a{
+            border: none;
+        }
+        .submenu li{
+            width: 100%;
+            border-bottom: 1px solid #393942;
+        }
+        .submenu li:last-child {border-bottom: none;}
+
+        .submenu li a{
+            width: 100%;
+            padding: 4px 0px 4px 40px;
+            margin: 0;
+            border: none;
+        }
+        .submenu a.css3 { background: url(docs.png) no-repeat 3px center;}
+        .submenu a.html5 { background: url(docs.png) no-repeat 3px center;}
+        .submenu a.php { background: url(docs.png) no-repeat 3px center;}
+    </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#">Trang chủ</a></li>
+            <li><a href="#">Sản phẩm</a>
+            <ul class="submenu">
+                <li><a href="#" class="css3">CSS3</a></li>
+                <li><a href="#" class="html5">HTML5</a></li>
+                <li><a href="#" class="php">PHP</a></li>
+            </ul>
+            </li>
+            <li><a href="#">Dịch vụ</a>
+                <ul class="submenu">
+                    <li><a href="#" class="css3">Tin Tức</a></li>
+                    <li><a href="#" class="html5">Thông Tin</a></li>
+                    <li><a href="#" class="php">PHP</a></li>
+                </ul></li>
+            <li><a href="#">Giới thiệu</a></li>
+            <li><a href="#">Liên hệ</a></li>
+        </ul>
+    </nav>
+</body>
+</html>

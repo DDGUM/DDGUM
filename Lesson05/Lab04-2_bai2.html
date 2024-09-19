@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        nav#mainNav{
+            width: 200px;
+            background: #ccc;
+        }
+        nav#mainNav ul{
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        nav#mainNav ul li{
+            border-bottom: 1px solid #fff;
+        }
+        nav#mainNav ul li a{
+            text-decoration: none;
+            display: block;
+            width: 85%;
+            padding: 10px 15px;
+        }
+        .selected, nav#mainNav ul li a:hover{
+            background: rgb(62, 204, 255);
+            color: #fff;
+        }
+        nav#mainNav ul li{
+            border-bottom: 1px solid #fff;
+            position: relative;
+        }
+        /* menu cấp 2 */
+        nav#mainNav ul li>ul{
+            position: absolute;
+            margin-left: 200px;
+            width: 200px;
+            background: #666; /* màu nền menu cấp 2 */
+            top: 0;
+            visibility: hidden;
+        }
+        nav#mainNav ul li:hover >ul{
+            visibility: visible;
+        }
+    </style>
+</head>
+<body>
+    <nav id="mainNav">
+        <ul>
+            <li>
+                <a href="" class="selected">Laptop Dell</a>
+                <ul>
+                    <li><a href="">Dell Inspiron</a></li>
+                    <li><a href="">Dell Vostro</a></li>
+                    <li><a href="">Dell XPS</a></li>
+                    <li><a href="">Dell Latitude</a></li>
+                </ul>
+            </li>
+            <li><a href="">Laptop Hp</a></li>
+            <li><a href="">Laptop Lenovo</a></li>
+            <li><a href="">Laptop Acer</a></li>
+            <li><a href="">Laptop Asus</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
