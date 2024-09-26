@@ -1,0 +1,35 @@
+@media (min-width:576px) and (max-width: 767.98px) {
+    body{
+        background-color: antiquewhite;
+    }
+}
+
+@media (min-width:768px) and (max-width: 1199.98px) {
+    body{
+        background-color: rgb(242, 137, 0);
+    }
+}
+
+@media (min-width:1200px) and (max-width: 1399.98px) {
+    body{
+        background-color: rgb(15, 101, 0);
+    }
+}
+
+@media (min-width:1400px) and (max-width: 1599.98px) {
+    body{
+        background-color: rgb(55, 255, 0);
+    }
+}
+
+@media (min-width:1600px) and (max-width: 1799.98px) {
+    body{
+        background-color: rgb(81, 0, 255);
+    }
+}
+
+@media (min-width:1800px) and (max-width: 1999.98px) {
+    body{
+        background-color: rgb(255, 10, 124);
+    }
+}

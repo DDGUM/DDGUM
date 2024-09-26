@@ -1,0 +1,36 @@
+/* // xs returns only a ruleset and no media query */
+
+/* // sm applies to x-small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    body{
+        background-color: rebeccapurple;
+    }
+}
+
+/* // md applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { 
+    body{
+        background-color: rgb(4, 254, 0);
+    }
+}
+
+/* // lg applies to medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+    body{
+        background-color: rgb(245, 250, 0);
+    }
+}
+
+/* // xl applies to large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) { 
+    body{
+        background-color: rgb(164, 164, 164);
+    }
+}
+
+/* // xxl applies to x-large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) { 
+    body{
+        background-color: rgb(185, 86, 0);
+    }
+}
