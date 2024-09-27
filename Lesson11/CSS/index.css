@@ -1,0 +1,65 @@
+body{
+    background-image: url(../image/background-tintuc.png);
+    padding: 0;
+    margin: 0;
+    background-size: 100%;
+}
+header{
+    display: flex;
+    padding: 0 50px 0;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    width: 100%;
+    position: fixed;k
+}
+.logo{
+    width: 120px;
+    height: 100%;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 170px;
+}
+nav ul li{
+    margin: 10px;
+    padding: 0 15px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+.news{
+}
+.container{
+    background-color: #fff;
+    margin: auto;
+    width: calc(12*100%/18);
+}
+.news h1{
+    text-align: center;
+    padding: 30px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.col{
+    max-width: 23rem;
+    margin: 0 30px;
+}
+
+footer{
+    background-color: rgb(247, 255, 230);
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+}
+h4{ font-size: 20px;}

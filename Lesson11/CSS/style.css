@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    font-family: font_strong;
+    font-size: 16px;
+
+}
+@font-face {
+    font-family:font_strong;
+    src:url(../fonts/fontawesome-webfont.eot) url(../fonts/fontawesome-webfont.svg) url();
+    font-weight:normal;
+    font-style:normal;
+   }
