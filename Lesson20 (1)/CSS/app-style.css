@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    font-family: "Arial";
+    font-size: 16px;
+    background-color: #f1f1f1;
+}
+
+.bg-white{
+    background-color: #fff;
+}
+.box-item{
+    border: 1px solid rgb(188, 188, 188);
+    box-shadow: 10px 10px 6px -1px rgb(188, 188, 188);
+}
+.img{
+    width: 10rem;
+}
+.img img{
+    width: 100%;
+}
+
+.gh-item button{
+    padding: 0 .75rem;
+    border: 1px solid rgb(127, 127, 127);
+}
+.gh-item input{
+    width: 35px;
+    border-top: 1px solid rgb(127, 127, 127);
+    border-bottom: 1px solid rgb(127, 127, 127);
+    text-align: center;
+}
+.gh-item input:focus{
+    outline: none;
+}
+#giohang p{
+    margin: 0.25rem 0;
+    font-size: .9rem;
+}
+.gh-item p span{
+    color: red;
+}
+.gh-item{
+    border-bottom: 1px solid #ccc;
+}
+.gh-action button{
+    border: 1px solid rgb(127, 127, 127);
+    border-radius: 5px;
+}
+
+.box-item p span{
+    color: red;
+}
+.box-action button {
+    border: 1px solid rgb(127, 127, 127);
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 2rem;
+}
