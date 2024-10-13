@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    font-family: Tahoma;
+    font-size: 16px;
+    background-color: #ccc;
+}
+.bg-white{
+    background-color: #fff;
+}
+.product-item{
+    background-color: #ccc;
+}
+.p-content{
+    text-align: center;
+    padding: 1rem 0;
+}
+p{
+    margin: 0;
+}
