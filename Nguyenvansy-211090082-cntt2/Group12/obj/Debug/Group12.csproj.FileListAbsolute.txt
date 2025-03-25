@@ -1,0 +1,904 @@
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\obj\Debug\Group12.csproj.AssemblyReference.cache
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\obj\Debug\TT_ShopJQK.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\obj\Debug\TT_ShopJQK.pdb
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\TT_ShopJQK.dll.config
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\TT_ShopJQK.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\TT_ShopJQK.pdb
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\csc.exe
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\csc.exe.config
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\csc.rsp
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\csi.exe
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\csi.exe.config
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\csi.rsp
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.AppContext.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Console.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.IO.Compression.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Net.Http.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.ValueTuple.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\vbc.exe
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\vbc.exe.config
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\vbc.rsp
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\VBCSCompiler.exe
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\itextsharp.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\TT_ShopJQK\obj\Debug\Group12.csproj.Up2Date
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\TT_ShopJQK.dll.config
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\TT_ShopJQK.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\TT_ShopJQK.pdb
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\csc.exe
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\csc.exe.config
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\csc.rsp
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\csi.exe
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\csi.exe.config
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\csi.rsp
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.AppContext.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Console.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.IO.Compression.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Net.Http.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.ValueTuple.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\vbc.exe
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\vbc.exe.config
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\vbc.rsp
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\VBCSCompiler.exe
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\itextsharp.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\obj\Debug\Group12.csproj.Up2Date
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\obj\Debug\TT_ShopJQK.dll
+C:\Users\Welcome\Downloads\ShareCode_ Website Bán Mỹ Phẩm Nam Giới\Group12\obj\Debug\TT_ShopJQK.pdb
+C:\Users\HNC\sourceC#\C#\Group12\bin\TT_ShopJQK.dll.config
+C:\Users\HNC\sourceC#\C#\Group12\bin\TT_ShopJQK.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\TT_ShopJQK.pdb
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\csc.exe
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\csc.exe.config
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\csc.rsp
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\csi.exe
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\csi.exe.config
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\csi.rsp
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.AppContext.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Console.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.IO.Compression.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Net.Http.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.ValueTuple.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\vbc.exe
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\vbc.exe.config
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\vbc.rsp
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\VBCSCompiler.exe
+C:\Users\HNC\sourceC#\C#\Group12\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HNC\sourceC#\C#\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HNC\sourceC#\C#\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HNC\sourceC#\C#\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+C:\Users\HNC\sourceC#\C#\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+C:\Users\HNC\sourceC#\C#\Group12\obj\Debug\Group12.csproj.CopyComplete
+C:\Users\HNC\sourceC#\C#\Group12\obj\Debug\TT_ShopJQK.dll
+C:\Users\HNC\sourceC#\C#\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\TMDT\Group12\bin\TT_ShopJQK.dll.config
+D:\TMDT\Group12\bin\TT_ShopJQK.dll
+D:\TMDT\Group12\bin\TT_ShopJQK.pdb
+D:\TMDT\Group12\bin\roslyn\csc.exe
+D:\TMDT\Group12\bin\roslyn\csc.exe.config
+D:\TMDT\Group12\bin\roslyn\csc.rsp
+D:\TMDT\Group12\bin\roslyn\csi.exe
+D:\TMDT\Group12\bin\roslyn\csi.exe.config
+D:\TMDT\Group12\bin\roslyn\csi.rsp
+D:\TMDT\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TMDT\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TMDT\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TMDT\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TMDT\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TMDT\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TMDT\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TMDT\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TMDT\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TMDT\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TMDT\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TMDT\Group12\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TMDT\Group12\bin\roslyn\System.AppContext.dll
+D:\TMDT\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\TMDT\Group12\bin\roslyn\System.Console.dll
+D:\TMDT\Group12\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TMDT\Group12\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TMDT\Group12\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TMDT\Group12\bin\roslyn\System.Globalization.Calendars.dll
+D:\TMDT\Group12\bin\roslyn\System.IO.Compression.dll
+D:\TMDT\Group12\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TMDT\Group12\bin\roslyn\System.IO.FileSystem.dll
+D:\TMDT\Group12\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TMDT\Group12\bin\roslyn\System.Net.Http.dll
+D:\TMDT\Group12\bin\roslyn\System.Net.Sockets.dll
+D:\TMDT\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\TMDT\Group12\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TMDT\Group12\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TMDT\Group12\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TMDT\Group12\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TMDT\Group12\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TMDT\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TMDT\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TMDT\Group12\bin\roslyn\System.ValueTuple.dll
+D:\TMDT\Group12\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TMDT\Group12\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TMDT\Group12\bin\roslyn\System.Xml.XPath.dll
+D:\TMDT\Group12\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TMDT\Group12\bin\roslyn\vbc.exe
+D:\TMDT\Group12\bin\roslyn\vbc.exe.config
+D:\TMDT\Group12\bin\roslyn\vbc.rsp
+D:\TMDT\Group12\bin\roslyn\VBCSCompiler.exe
+D:\TMDT\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\TMDT\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TMDT\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TMDT\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\TMDT\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\TMDT\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\TMDT\Group12\obj\Debug\TT_ShopJQK.dll
+D:\TMDT\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\TT_ShopJQK.dll.config
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\TT_ShopJQK.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\TT_ShopJQK.pdb
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\csc.exe
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\csc.exe.config
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\csc.rsp
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\csi.exe
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\csi.exe.config
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\csi.rsp
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.AppContext.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Console.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Globalization.Calendars.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.IO.Compression.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.IO.FileSystem.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Net.Http.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Net.Sockets.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.ValueTuple.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Xml.XPath.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\vbc.exe
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\vbc.exe.config
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\vbc.rsp
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\VBCSCompiler.exe
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\obj\Debug\TT_ShopJQK.dll
+D:\HK(6)\PhatTrienUngDungTMDT\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\TMDT2\Group12\bin\TT_ShopJQK.dll.config
+D:\TMDT2\Group12\bin\TT_ShopJQK.dll
+D:\TMDT2\Group12\bin\TT_ShopJQK.pdb
+D:\TMDT2\Group12\bin\roslyn\csc.exe
+D:\TMDT2\Group12\bin\roslyn\csc.exe.config
+D:\TMDT2\Group12\bin\roslyn\csc.rsp
+D:\TMDT2\Group12\bin\roslyn\csi.exe
+D:\TMDT2\Group12\bin\roslyn\csi.exe.config
+D:\TMDT2\Group12\bin\roslyn\csi.rsp
+D:\TMDT2\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TMDT2\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TMDT2\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TMDT2\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TMDT2\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TMDT2\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TMDT2\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TMDT2\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TMDT2\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TMDT2\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TMDT2\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TMDT2\Group12\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TMDT2\Group12\bin\roslyn\System.AppContext.dll
+D:\TMDT2\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\TMDT2\Group12\bin\roslyn\System.Console.dll
+D:\TMDT2\Group12\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TMDT2\Group12\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TMDT2\Group12\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TMDT2\Group12\bin\roslyn\System.Globalization.Calendars.dll
+D:\TMDT2\Group12\bin\roslyn\System.IO.Compression.dll
+D:\TMDT2\Group12\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TMDT2\Group12\bin\roslyn\System.IO.FileSystem.dll
+D:\TMDT2\Group12\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TMDT2\Group12\bin\roslyn\System.Net.Http.dll
+D:\TMDT2\Group12\bin\roslyn\System.Net.Sockets.dll
+D:\TMDT2\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\TMDT2\Group12\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TMDT2\Group12\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TMDT2\Group12\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TMDT2\Group12\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TMDT2\Group12\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TMDT2\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TMDT2\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TMDT2\Group12\bin\roslyn\System.ValueTuple.dll
+D:\TMDT2\Group12\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TMDT2\Group12\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TMDT2\Group12\bin\roslyn\System.Xml.XPath.dll
+D:\TMDT2\Group12\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TMDT2\Group12\bin\roslyn\vbc.exe
+D:\TMDT2\Group12\bin\roslyn\vbc.exe.config
+D:\TMDT2\Group12\bin\roslyn\vbc.rsp
+D:\TMDT2\Group12\bin\roslyn\VBCSCompiler.exe
+D:\TMDT2\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\TMDT2\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TMDT2\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TMDT2\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\TMDT2\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\TMDT2\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\TMDT2\Group12\obj\Debug\TT_ShopJQK.dll
+D:\TMDT2\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\kithuatlaptrinh\New folder\Group12\bin\TT_ShopJQK.dll.config
+D:\kithuatlaptrinh\New folder\Group12\bin\TT_ShopJQK.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\TT_ShopJQK.pdb
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\csc.exe
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\csc.exe.config
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\csc.rsp
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\csi.exe
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\csi.exe.config
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\csi.rsp
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.AppContext.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Console.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Globalization.Calendars.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.IO.Compression.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.IO.FileSystem.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Net.Http.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Net.Sockets.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.ValueTuple.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Xml.XmlDocument.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Xml.XPath.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\vbc.exe
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\vbc.exe.config
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\vbc.rsp
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\VBCSCompiler.exe
+D:\kithuatlaptrinh\New folder\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\kithuatlaptrinh\New folder\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kithuatlaptrinh\New folder\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kithuatlaptrinh\New folder\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\kithuatlaptrinh\New folder\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\kithuatlaptrinh\New folder\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\kithuatlaptrinh\New folder\Group12\obj\Debug\TT_ShopJQK.dll
+D:\kithuatlaptrinh\New folder\Group12\obj\Debug\TT_ShopJQK.pdb
+C:\Users\HNC\Downloads\Project\Group12\bin\TT_ShopJQK.dll.config
+C:\Users\HNC\Downloads\Project\Group12\bin\TT_ShopJQK.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\TT_ShopJQK.pdb
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\csc.exe
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\csc.exe.config
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\csc.rsp
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\csi.exe
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\csi.exe.config
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\csi.rsp
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.AppContext.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Console.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.IO.Compression.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Net.Http.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.ValueTuple.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\vbc.exe
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\vbc.exe.config
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\vbc.rsp
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\VBCSCompiler.exe
+C:\Users\HNC\Downloads\Project\Group12\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HNC\Downloads\Project\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HNC\Downloads\Project\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HNC\Downloads\Project\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+C:\Users\HNC\Downloads\Project\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+C:\Users\HNC\Downloads\Project\Group12\obj\Debug\Group12.csproj.CopyComplete
+C:\Users\HNC\Downloads\Project\Group12\obj\Debug\TT_ShopJQK.dll
+C:\Users\HNC\Downloads\Project\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\Downloads\Group12\bin\TT_ShopJQK.dll.config
+D:\Downloads\Group12\bin\TT_ShopJQK.dll
+D:\Downloads\Group12\bin\TT_ShopJQK.pdb
+D:\Downloads\Group12\bin\roslyn\csc.exe
+D:\Downloads\Group12\bin\roslyn\csc.exe.config
+D:\Downloads\Group12\bin\roslyn\csc.rsp
+D:\Downloads\Group12\bin\roslyn\csi.exe
+D:\Downloads\Group12\bin\roslyn\csi.exe.config
+D:\Downloads\Group12\bin\roslyn\csi.rsp
+D:\Downloads\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Downloads\Group12\bin\roslyn\vbc.exe
+D:\Downloads\Group12\bin\roslyn\vbc.exe.config
+D:\Downloads\Group12\bin\roslyn\vbc.rsp
+D:\Downloads\Group12\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\Downloads\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\Downloads\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\Downloads\Group12\obj\Debug\TT_ShopJQK.dll
+D:\Downloads\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\Downloads\Group12\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Downloads\Group12\bin\roslyn\System.Buffers.dll
+D:\Downloads\Group12\bin\roslyn\System.Memory.dll
+D:\Downloads\Group12\bin\roslyn\System.Numerics.Vectors.dll
+D:\Downloads\Group12\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\Group12\bin\Newtonsoft.Json.dll
+D:\Downloads\Group12\bin\Newtonsoft.Json.xml
+D:\TMDT5\Group12\bin\TT_ShopJQK.dll.config
+D:\TMDT5\Group12\bin\TT_ShopJQK.dll
+D:\TMDT5\Group12\bin\TT_ShopJQK.pdb
+D:\TMDT5\Group12\bin\roslyn\csc.exe
+D:\TMDT5\Group12\bin\roslyn\csc.exe.config
+D:\TMDT5\Group12\bin\roslyn\csc.rsp
+D:\TMDT5\Group12\bin\roslyn\csi.exe
+D:\TMDT5\Group12\bin\roslyn\csi.exe.config
+D:\TMDT5\Group12\bin\roslyn\csi.rsp
+D:\TMDT5\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TMDT5\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TMDT5\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TMDT5\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TMDT5\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TMDT5\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TMDT5\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TMDT5\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TMDT5\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TMDT5\Group12\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\TMDT5\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TMDT5\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TMDT5\Group12\bin\roslyn\System.Buffers.dll
+D:\TMDT5\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\TMDT5\Group12\bin\roslyn\System.Memory.dll
+D:\TMDT5\Group12\bin\roslyn\System.Numerics.Vectors.dll
+D:\TMDT5\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\TMDT5\Group12\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\TMDT5\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TMDT5\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TMDT5\Group12\bin\roslyn\vbc.exe
+D:\TMDT5\Group12\bin\roslyn\vbc.exe.config
+D:\TMDT5\Group12\bin\roslyn\vbc.rsp
+D:\TMDT5\Group12\bin\roslyn\VBCSCompiler.exe
+D:\TMDT5\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\TMDT5\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TMDT5\Group12\bin\Newtonsoft.Json.dll
+D:\TMDT5\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TMDT5\Group12\bin\Newtonsoft.Json.xml
+D:\TMDT5\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\TMDT5\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\TMDT5\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\TMDT5\Group12\obj\Debug\TT_ShopJQK.dll
+D:\TMDT5\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\Game\Group12\bin\TT_ShopJQK.dll.config
+D:\Game\Group12\bin\TT_ShopJQK.dll
+D:\Game\Group12\bin\TT_ShopJQK.pdb
+D:\Game\Group12\bin\roslyn\csc.exe
+D:\Game\Group12\bin\roslyn\csc.exe.config
+D:\Game\Group12\bin\roslyn\csc.rsp
+D:\Game\Group12\bin\roslyn\csi.exe
+D:\Game\Group12\bin\roslyn\csi.exe.config
+D:\Game\Group12\bin\roslyn\csi.rsp
+D:\Game\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Game\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Game\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Game\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Game\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Game\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Game\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Game\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Game\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Game\Group12\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Game\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Game\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Game\Group12\bin\roslyn\System.Buffers.dll
+D:\Game\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\Game\Group12\bin\roslyn\System.Memory.dll
+D:\Game\Group12\bin\roslyn\System.Numerics.Vectors.dll
+D:\Game\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\Game\Group12\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Game\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Game\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Game\Group12\bin\roslyn\vbc.exe
+D:\Game\Group12\bin\roslyn\vbc.exe.config
+D:\Game\Group12\bin\roslyn\vbc.rsp
+D:\Game\Group12\bin\roslyn\VBCSCompiler.exe
+D:\Game\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\Game\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Game\Group12\bin\Newtonsoft.Json.dll
+D:\Game\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Game\Group12\bin\Newtonsoft.Json.xml
+D:\Game\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\Game\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\Game\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\Game\Group12\obj\Debug\TT_ShopJQK.dll
+D:\Game\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\TMDT6\Group12\bin\TT_ShopJQK.dll.config
+D:\TMDT6\Group12\bin\TT_ShopJQK.dll
+D:\TMDT6\Group12\bin\TT_ShopJQK.pdb
+D:\TMDT6\Group12\bin\roslyn\csc.exe
+D:\TMDT6\Group12\bin\roslyn\csc.exe.config
+D:\TMDT6\Group12\bin\roslyn\csc.rsp
+D:\TMDT6\Group12\bin\roslyn\csi.exe
+D:\TMDT6\Group12\bin\roslyn\csi.exe.config
+D:\TMDT6\Group12\bin\roslyn\csi.rsp
+D:\TMDT6\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TMDT6\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TMDT6\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TMDT6\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TMDT6\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TMDT6\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TMDT6\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TMDT6\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TMDT6\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TMDT6\Group12\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\TMDT6\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TMDT6\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TMDT6\Group12\bin\roslyn\System.Buffers.dll
+D:\TMDT6\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\TMDT6\Group12\bin\roslyn\System.Memory.dll
+D:\TMDT6\Group12\bin\roslyn\System.Numerics.Vectors.dll
+D:\TMDT6\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\TMDT6\Group12\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\TMDT6\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TMDT6\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TMDT6\Group12\bin\roslyn\vbc.exe
+D:\TMDT6\Group12\bin\roslyn\vbc.exe.config
+D:\TMDT6\Group12\bin\roslyn\vbc.rsp
+D:\TMDT6\Group12\bin\roslyn\VBCSCompiler.exe
+D:\TMDT6\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\TMDT6\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TMDT6\Group12\bin\Newtonsoft.Json.dll
+D:\TMDT6\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TMDT6\Group12\bin\Newtonsoft.Json.xml
+D:\TMDT6\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\TMDT6\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\TMDT6\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\TMDT6\Group12\obj\Debug\TT_ShopJQK.dll
+D:\TMDT6\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\Game\New folder\Group12\bin\TT_ShopJQK.dll.config
+D:\Game\New folder\Group12\bin\TT_ShopJQK.dll
+D:\Game\New folder\Group12\bin\TT_ShopJQK.pdb
+D:\Game\New folder\Group12\bin\roslyn\csc.exe
+D:\Game\New folder\Group12\bin\roslyn\csc.exe.config
+D:\Game\New folder\Group12\bin\roslyn\csc.rsp
+D:\Game\New folder\Group12\bin\roslyn\csi.exe
+D:\Game\New folder\Group12\bin\roslyn\csi.exe.config
+D:\Game\New folder\Group12\bin\roslyn\csi.rsp
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Game\New folder\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Game\New folder\Group12\bin\roslyn\System.Buffers.dll
+D:\Game\New folder\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\Game\New folder\Group12\bin\roslyn\System.Memory.dll
+D:\Game\New folder\Group12\bin\roslyn\System.Numerics.Vectors.dll
+D:\Game\New folder\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\Game\New folder\Group12\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Game\New folder\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Game\New folder\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Game\New folder\Group12\bin\roslyn\vbc.exe
+D:\Game\New folder\Group12\bin\roslyn\vbc.exe.config
+D:\Game\New folder\Group12\bin\roslyn\vbc.rsp
+D:\Game\New folder\Group12\bin\roslyn\VBCSCompiler.exe
+D:\Game\New folder\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\Game\New folder\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Game\New folder\Group12\bin\Newtonsoft.Json.dll
+D:\Game\New folder\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Game\New folder\Group12\bin\Newtonsoft.Json.xml
+D:\Game\New folder\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\Game\New folder\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\Game\New folder\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\Game\New folder\Group12\obj\Debug\TT_ShopJQK.dll
+D:\Game\New folder\Group12\obj\Debug\TT_ShopJQK.pdb
+C:\Users\HNC\Documents\KT\4086\Group12\bin\TT_ShopJQK.dll.config
+C:\Users\HNC\Documents\KT\4086\Group12\bin\TT_ShopJQK.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\TT_ShopJQK.pdb
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\csc.exe
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\csc.exe.config
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\csc.rsp
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\csi.exe
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\csi.exe.config
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\csi.rsp
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\System.Buffers.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\System.Memory.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\vbc.exe
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\vbc.exe.config
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\vbc.rsp
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\VBCSCompiler.exe
+C:\Users\HNC\Documents\KT\4086\Group12\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HNC\Documents\KT\4086\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\Newtonsoft.Json.dll
+C:\Users\HNC\Documents\KT\4086\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HNC\Documents\KT\4086\Group12\bin\Newtonsoft.Json.xml
+C:\Users\HNC\Documents\KT\4086\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+C:\Users\HNC\Documents\KT\4086\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+C:\Users\HNC\Documents\KT\4086\Group12\obj\Debug\Group12.csproj.CopyComplete
+C:\Users\HNC\Documents\KT\4086\Group12\obj\Debug\TT_ShopJQK.dll
+C:\Users\HNC\Documents\KT\4086\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\TMDT7\Group12\bin\TT_ShopJQK.dll.config
+D:\TMDT7\Group12\bin\TT_ShopJQK.dll
+D:\TMDT7\Group12\bin\TT_ShopJQK.pdb
+D:\TMDT7\Group12\bin\roslyn\csc.exe
+D:\TMDT7\Group12\bin\roslyn\csc.exe.config
+D:\TMDT7\Group12\bin\roslyn\csc.rsp
+D:\TMDT7\Group12\bin\roslyn\csi.exe
+D:\TMDT7\Group12\bin\roslyn\csi.exe.config
+D:\TMDT7\Group12\bin\roslyn\csi.rsp
+D:\TMDT7\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TMDT7\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TMDT7\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TMDT7\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TMDT7\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TMDT7\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TMDT7\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TMDT7\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TMDT7\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TMDT7\Group12\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\TMDT7\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TMDT7\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TMDT7\Group12\bin\roslyn\System.Buffers.dll
+D:\TMDT7\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\TMDT7\Group12\bin\roslyn\System.Memory.dll
+D:\TMDT7\Group12\bin\roslyn\System.Numerics.Vectors.dll
+D:\TMDT7\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\TMDT7\Group12\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\TMDT7\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TMDT7\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TMDT7\Group12\bin\roslyn\vbc.exe
+D:\TMDT7\Group12\bin\roslyn\vbc.exe.config
+D:\TMDT7\Group12\bin\roslyn\vbc.rsp
+D:\TMDT7\Group12\bin\roslyn\VBCSCompiler.exe
+D:\TMDT7\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\TMDT7\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TMDT7\Group12\bin\Newtonsoft.Json.dll
+D:\TMDT7\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TMDT7\Group12\bin\Newtonsoft.Json.xml
+D:\TMDT7\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\TMDT7\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\TMDT7\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\TMDT7\Group12\obj\Debug\TT_ShopJQK.dll
+D:\TMDT7\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\thiet ke web\ontap1\Group12\bin\TT_ShopJQK.dll.config
+D:\thiet ke web\ontap1\Group12\bin\TT_ShopJQK.dll
+D:\thiet ke web\ontap1\Group12\bin\TT_ShopJQK.pdb
+D:\thiet ke web\ontap1\Group12\bin\roslyn\csc.exe
+D:\thiet ke web\ontap1\Group12\bin\roslyn\csc.exe.config
+D:\thiet ke web\ontap1\Group12\bin\roslyn\csc.rsp
+D:\thiet ke web\ontap1\Group12\bin\roslyn\csi.exe
+D:\thiet ke web\ontap1\Group12\bin\roslyn\csi.exe.config
+D:\thiet ke web\ontap1\Group12\bin\roslyn\csi.rsp
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\thiet ke web\ontap1\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\thiet ke web\ontap1\Group12\bin\roslyn\System.Buffers.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\System.Memory.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\System.Numerics.Vectors.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\thiet ke web\ontap1\Group12\bin\roslyn\vbc.exe
+D:\thiet ke web\ontap1\Group12\bin\roslyn\vbc.exe.config
+D:\thiet ke web\ontap1\Group12\bin\roslyn\vbc.rsp
+D:\thiet ke web\ontap1\Group12\bin\roslyn\VBCSCompiler.exe
+D:\thiet ke web\ontap1\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\thiet ke web\ontap1\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\thiet ke web\ontap1\Group12\bin\Newtonsoft.Json.dll
+D:\thiet ke web\ontap1\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\thiet ke web\ontap1\Group12\bin\Newtonsoft.Json.xml
+D:\thiet ke web\ontap1\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\thiet ke web\ontap1\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\thiet ke web\ontap1\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\thiet ke web\ontap1\Group12\obj\Debug\TT_ShopJQK.dll
+D:\thiet ke web\ontap1\Group12\obj\Debug\TT_ShopJQK.pdb
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\TT_ShopJQK.dll.config
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\TT_ShopJQK.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\TT_ShopJQK.pdb
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\csc.exe
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\csc.exe.config
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\csc.rsp
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\csi.exe
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\csi.exe.config
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\csi.rsp
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\System.Buffers.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\System.Collections.Immutable.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\System.Memory.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\System.Numerics.Vectors.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\vbc.exe
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\vbc.exe.config
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\vbc.rsp
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\VBCSCompiler.exe
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\roslyn\VBCSCompiler.exe.config
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\Newtonsoft.Json.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\bin\Newtonsoft.Json.xml
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\obj\Debug\Group12.csproj.Up2Date
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\obj\Debug\TT_ShopJQK.dll
+D:\HK(6)\PhatTrienUngDungTMDT\BTL\Group12\obj\Debug\TT_ShopJQK.pdb
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\TT_ShopJQK.dll.config
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\TT_ShopJQK.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\TT_ShopJQK.pdb
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\csi.exe
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\System.Buffers.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\System.Memory.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\Group12\Group12\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\Group12\Group12\obj\Debug\Group12.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Group12\Group12\obj\Debug\Group12.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Group12\Group12\obj\Debug\Group12.csproj.Up2Date
+C:\Users\ADMIN\Downloads\Group12\Group12\obj\Debug\TT_ShopJQK.dll
+C:\Users\ADMIN\Downloads\Group12\Group12\obj\Debug\TT_ShopJQK.pdb
